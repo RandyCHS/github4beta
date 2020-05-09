@@ -1,7 +1,7 @@
 
 > Open this page at [https://randychs.github.io/github4beta/](https://randychs.github.io/github4beta/)
 
-This is a little project the will count how many times you pressed the A on a microbit
+This is a little project the will count how many times you pressed the A button on a microbit
 
 ## Use as Extension
 
