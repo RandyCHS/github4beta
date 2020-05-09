@@ -1,6 +1,8 @@
 
 > Open this page at [https://randychs.github.io/github4beta/](https://randychs.github.io/github4beta/)
 
+This is a little project the will count how many times you pressed the A on a microbit
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,13 +19,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/randychs/github4beta** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/randychs/github4beta/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
